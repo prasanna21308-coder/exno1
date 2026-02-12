@@ -125,13 +125,17 @@ df_z_cleaned
 
 # Result
 
-<img width="668" height="671" alt="Screenshot 2026-02-12 082239" src="https://github.com/user-attachments/assets/714b813b-d988-4db3-98a5-9d1f3d830a62" />
+<img width="668" height="671" alt="Screenshot 2026-02-12 082239" src="https://github.com/user-attachments/assets/1880767e-b8f5-4495-bc1d-56e8e02b98e8" />
 
 
-<img width="468" height="226" alt="Screenshot 2026-02-12 082259" src="https://github.com/user-attachments/assets/0384865f-a9de-4273-8693-e3c6694f5d4d" />
+<img width="456" height="813" alt="Screenshot 2026-02-12 082323" src="https://github.com/user-attachments/assets/11117d15-bc57-476d-82a8-f76ea3a370e8" />
 
 
-<img width="456" height="813" alt="Screenshot 2026-02-12 082323" src="https://github.com/user-attachments/assets/d9d90721-62a4-4c0e-a4ae-d4f43cdb3f67" />
+
+<img width="468" height="226" alt="Screenshot 2026-02-12 082259" src="https://github.com/user-attachments/assets/7f9b151b-c41f-4e1c-a7b1-4f475c8a043f" />
+
+
+
 
 
 
